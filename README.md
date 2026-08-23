@@ -1,5 +1,5 @@
 # MainTrack
-![Alt Text](./MainTrack Logo.png)
+![MainTrack Logo](MainTrack%20Logo.png)
 ## Smart Maintenance Tracking System
 
 MainTrack is a smart maintenance tracking platform designed for universities and large facilities. It digitizes and organizes the maintenance workflow by providing a centralized platform for submitting maintenance requests, automatically assigning technicians, tracking request progress in real time, and providing administrative monitoring and reporting.
