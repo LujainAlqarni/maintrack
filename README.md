@@ -167,6 +167,8 @@ The system is structured around several services:
 | Analytics & Reporting Service | Generating reports and maintenance analytics                        |
 | IoT Integration Service       | Communicating with IoT sensors and processing fault data            |
 
+
+![MainTrack Logo](MainTrack-Logo.png)
 ---
 
 ## Domain-Driven Design
