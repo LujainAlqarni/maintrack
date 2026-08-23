@@ -168,7 +168,7 @@ The system is structured around several services:
 | IoT Integration Service       | Communicating with IoT sensors and processing fault data            |
 
 
-![MainTrack Logo](MainTrack-Logo.png)
+![MainTrack Logo](microservice-architecture.png)
 ---
 
 ## Domain-Driven Design
